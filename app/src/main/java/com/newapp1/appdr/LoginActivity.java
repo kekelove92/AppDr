@@ -30,6 +30,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         ButterKnife.bind(this);
         btnLogin.setOnClickListener(this);
 
+
+
     }
 
     @Override

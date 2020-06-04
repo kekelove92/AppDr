@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppDr</string>
+    <string name="login_password">비밀번호</string>
+    <string name="login_title">로그인을 위해\n정보를 입력해주세요.</string>
+    <string name="login_hint_email">이메일을 입력해주세요</string>
+    <string name="login_hint_password">비밀번호를 입력해주세요</string>
+    <string name="txt_remember">로그인저장</string>
+    <string name="txt_signup"><u>아이디 찾기</u></string>
+    <string name="txt_forgotpass"><u>비밀번호 찾기</u></string>
+    <string name="txt_email">이메일</string>
+</resources>
